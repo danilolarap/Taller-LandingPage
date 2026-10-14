@@ -4,7 +4,7 @@ import React from 'react';
 import { Navbar } from '@/components/NavBar';
 import { HeroBanner } from '@/components/HeroBanner';
 import { MenuCategories } from '@/components/MenuCategories';
-import { Bestsellers } from '@/components/Bestsellers';
+import { Bestsellers } from '@/components/BestSellers';
 import { OurPromise } from '@/components/OurPromise';
 import { TrustBanner } from '@/components/TrustBanner';
 import { Footer } from '@/components/Footer';
